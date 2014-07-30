@@ -1,6 +1,6 @@
 # Hello World
 
-Intermediate course example repo
+Intermediate course example Something in here to conflict with another branch in the repo
 
 ## Contributing
 Take a look at the `CONTRIBUTING.md` for instructions on how to contribute.
