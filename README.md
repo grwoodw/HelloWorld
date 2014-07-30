@@ -1,6 +1,6 @@
 # Hello World
 
-Intermediiate course example repo
+Intermediate course example repo
 
 ## Contributing
 Take a look at the `CONTRIBUTING.md` for instructions on how to contribute.
