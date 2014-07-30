@@ -2,4 +2,7 @@
 
 Intermediiate course example repo
 
-Hi!  I like peanut butter and chocolate
+## Contributing
+Take a look at the `CONTRIBUTING.md` for instructions on how to contribute.
+
+Please file an issue if this is too complicated
