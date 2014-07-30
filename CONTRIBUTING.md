@@ -5,4 +5,4 @@ If you would like to help, please follow the steps below
 - Or, Fork the repository
 - Send a pull request
 - Add experience to resume
-- Get a job that pays ;-)
+- Get a job that pays ;-) booya

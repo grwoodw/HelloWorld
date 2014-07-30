@@ -1,6 +1,6 @@
 # Hello World
 
-Intermediate course example repo
+This is a very simple example repo for the intermediate git course.
 
 ## Contributing
 Take a look at the `CONTRIBUTING.md` for instructions on how to contribute.
