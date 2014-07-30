@@ -1,4 +1,5 @@
-HelloWorld
-==========
+# Hello World
 
-Intermediate course example repo
+Intermediiate course example repo
+
+Hi!  I like peanut butter and chocolate
